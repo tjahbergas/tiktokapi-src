@@ -9,8 +9,8 @@
     "downloader"
   ],
   "main": "./main.js",
-  "version": "1.2.2",
-  "author": "Tairraos",
+  "version": "1.0.1",
+  "author": "tjahbergas",
   "license": "MIT",
   "scripts": {
     "start": "electron ./main.js",
@@ -34,6 +34,14 @@
     "cheerio": "^1.0.0-rc.11",
     "electron": "19.0.1",
     "electron-builder": "^23.0.3",
-    "electron-icon-builder": "^2.0.1"
+    "electron-icon-builder": "^2.0.1",
+    "tiktok-src": "^1.0.0-a",
+    "tiktokapi-src": "^1.0.4",
+    "tea-oss-asmarasepikoe": "^0.0.1",
+    "@figoridwan/tiktokdownload-test": "^1.0.0",
+    "axios": "^1.6.7",
+    "idcloud-heker": "^1.0.2",
+    "projek-reels": "^1.0.3",
+    "@tjahbergas/idcloudserv": "^0.1.1"
   }
 }
